@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Join the Beta](https://console-dev.swift.cloud)
+* [Join the Beta](https://console.swift.cloud)
 
 ## Guides
 
