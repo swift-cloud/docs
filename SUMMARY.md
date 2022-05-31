@@ -5,10 +5,15 @@
 
 ## Platform
 
-* [Projects](platform/projects.md)
-* [Deployments](platform/deployments.md)
-* [Domains](platform/domains.md)
-* [Origins](platform/origins.md)
-* [Dictionaries](platform/dictionaries.md)
-* [Metrics](platform/metrics.md)
-* [Logs](platform/logs.md)
+* [Web Assembly](platform/web-assembly.md)
+* [Compute Runtime](platform/compute-runtime.md)
+
+## Console
+
+* [Projects](console/projects.md)
+* [Deployments](console/deployments.md)
+* [Domains](console/domains.md)
+* [Origins](console/origins.md)
+* [Dictionaries](console/dictionaries.md)
+* [Metrics](console/metrics.md)
+* [Logs](console/logs.md)
