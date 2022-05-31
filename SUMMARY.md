@@ -6,7 +6,9 @@
 ## Platform
 
 * [Web Assembly](platform/web-assembly.md)
-* [Compute Runtime](platform/compute-runtime.md)
+* [Compute Runtime](platform/compute-runtime/README.md)
+  * [Listen for Requests](platform/compute-runtime/listen-for-requests.md)
+  * [Respond to Requests](platform/compute-runtime/respond-to-requests.md)
 
 ## Console
 
