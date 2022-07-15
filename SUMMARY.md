@@ -19,3 +19,5 @@
 * [Dictionaries](console/dictionaries.md)
 * [Metrics](console/metrics.md)
 * [Logs](console/logs.md)
+* [Teams](console/teams.md)
+* [Plans & Billing](console/plans-and-billing.md)
